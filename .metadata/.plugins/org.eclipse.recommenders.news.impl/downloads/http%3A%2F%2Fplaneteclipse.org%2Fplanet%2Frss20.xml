@@ -9,6 +9,13 @@
 	<atom:link rel="self" href="http://planeteclipse.org/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>InfoQ Eclipse feed: The Java EE Guardians Rebrand as the Jakarta EE Ambassadors</title>
+	<guid isPermaLink="true">https://www.infoq.com/news/2020/01/rebranding-java-ee-guardians/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Eclipse</guid>
+	<link>https://www.infoq.com/news/2020/01/rebranding-java-ee-guardians/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Eclipse</link>
+	<description>&lt;img src=&quot;https://www.infoq.com/styles/i/logo_bigger.jpg&quot; /&gt;&lt;p&gt;Under the auspices of the Eclipse Foundation, the rebranding of the Java EE Guardians to the Jakarta EE Ambassadors has been completed. They were a driving force that ultimately led to Oracle open-sourcing Java EE and transferring ownership to the Eclipse Foundation. Reza Rahman, program manager, Java on Azure at Microsoft, spoke to InfoQ about this rebranding.&lt;/p&gt; &lt;i&gt;By Michael Redlich&lt;/i&gt;</description>
+	<pubDate>Thu, 30 Jan 2020 09:00:00 +0000</pubDate>
+</item>
+<item>
 	<title>Thabang Mashologu: CN4J Day Is an Important Industry First</title>
 	<guid isPermaLink="false">6761 at https://blogs.eclipse.org</guid>
 	<link>https://blogs.eclipse.org/post/thabang-mashologu/cn4j-day-important-industry-first</link>
@@ -2316,110 +2323,6 @@ You can &lt;a href=&quot;https://news.obeo.fr/en/post/world-cleanup-day-obeo-sup
 &lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track.hubspot.com/__ptq.gif?a=761475&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblogs.itemis.com%2Fde%2Flanguage-workbench-fuer-testsprachen&amp;amp;bu=https%253A%252F%252Fblogs.itemis.com&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
 	<pubDate>Fri, 13 Sep 2019 14:12:14 +0000</pubDate>
 	<author>adeutsch@itemis.de (Arne Deutsch)</author>
-</item>
-<item>
-	<title>Jens Reimann: From building blocks to IoT solutions</title>
-	<guid isPermaLink="false">https://dentrassi.de/?p=4293</guid>
-	<link>https://dentrassi.de/2019/09/10/from-building-blocks-to-iot-solutions/</link>
-	<description>&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;alignright is-resized&quot;&gt;&lt;a href=&quot;https://iot.eclipse.org&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Eclipse IoT&quot; class=&quot;wp-image-3752&quot; height=&quot;207&quot; src=&quot;https://dentrassi.de/wp-content/uploads/eclipse-IoT-light-300x269.png&quot; width=&quot;231&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
-
-
-
-&lt;p&gt;The Eclipse IoT ecosystem consists of around 40 different projects, ranging from embedded devices, to IoT gateways and up to cloud scale solutions. Many of those projects stand alone as “building blocks”, rather than ready to run solutions. And there is a good reason for that: you can take these building blocks, and incorporate them into your own solution, rather than adopting a complete, pre-built solution.&lt;/p&gt;
-
-
-
-&lt;p&gt;This approach however comes with a downside. Most people will understand the purpose of building blocks, like “&lt;a href=&quot;https://www.eclipse.org/paho/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Paho&lt;/a&gt;” (an MQTT protocol library) and “&lt;a href=&quot;https://github.com/eclipse/milo&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Milo&lt;/a&gt;” (an &lt;a href=&quot;https://dentrassi.de/2019/07/06/eclipse-milo-0-3-updated-examples/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;OPC UA protocol library&lt;/a&gt;) and can easily integrate them into their solution. But on the cloud side of things, building blocks become much more complex to integrate, and harder to understand.&lt;/p&gt;
-
-
-
-&lt;p&gt;Of course, the “getting started” experience is extremely important. You can simply &lt;a href=&quot;https://www.eclipse.org/downloads/packages/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;download an Eclipse IDE package&lt;/a&gt;, tailored towards your context (Java, Modelling, Rust, …), and are up and running within minutes. We don’t want you to design your deployment descriptors first, and then let you figure out how to start up your distributed cluster. Otherwise “getting started” will become a week long task. And a rather frustrating one.&lt;/p&gt;
-
-
-
-&lt;h2&gt;Getting started. Quickly!&lt;/h2&gt;
-
-
-
-&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;alignright&quot;&gt;&lt;a href=&quot;https://dentrassi.de/2019/02/20/integrating-eclipse-iot/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Eclipse IoT building blocks&quot; class=&quot;wp-image-4121&quot; src=&quot;https://dentrassi.de/wp-content/uploads/Selection_583-300x236.png&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
-
-
-
-&lt;p&gt;During the &lt;a href=&quot;https://www.eclipse.org/lists/iot-wg/msg01495.html&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Eclipse IoT face-to-face meeting in Berlin&lt;/a&gt;, early this year, the Eclipse IoT working group discussed various ideas. How can we enable interested parties to get started, with as little effort as possible. And still, give you full control. Not only with a single component, which doesn’t provide much benefit on its own. But get you started with a complete solution, which solves actual IoT related problems.&lt;/p&gt;
-
-
-
-&lt;p&gt;The goal was simple. Take an IoT use case, which is easy to understand by IoT related people. And provide some form of deployment, which gets people up and running in less than 15 minutes. With as little as possible external requirements. At best, run everything on your local laptop. Still, create everything in a close-to-production style of deployment. Not something completely stripped down. But use a way of deployment, that you could actually use as a basis for extending it further.&lt;/p&gt;
-
-
-
-&lt;h2&gt;Kubernetes &amp;amp; Helm&lt;/h2&gt;
-
-
-
-&lt;p&gt;We quickly agreed on &lt;a href=&quot;https://kubernetes.io/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Kubernetes&lt;/a&gt; as the runtime platform, and &lt;a href=&quot;https://helm.sh/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Helm&lt;/a&gt; as the way to perform the actual deployments. With Kubernetes being available even on a local machine (using &lt;a href=&quot;https://kubernetes.io/docs/setup/learning-environment/minikube/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;minikube&lt;/a&gt; on Linux, Windows and Mac) and being available, at the same time, in several enterprise ready environments, it seemed like an ideal choice. Helm charts seemed like an ideal choice as well. Helm designed directly for Kubernetes. And it also allows you to generate YAML files, from the Helm charts. So that the deployment only requires you to deploy a bunch of YAML files. Maintaining the charts, is still way easier than directly authoring YAML files.&lt;/p&gt;
-
-
-
-&lt;h2&gt;Challenges, moving towards an IoT solution&lt;/h2&gt;
-
-
-
-&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;alignright&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-4341&quot; src=&quot;https://dentrassi.de/wp-content/uploads/logo_stack_proper_200px.png&quot; /&gt;&lt;/figure&gt;&lt;/div&gt;
-
-
-
-&lt;p&gt;A much tougher question was: how do we structure this, from a project perspective. During the meeting, it soon turned out, there would be two good initial candidates for “stacks” or “groups of projects”, which we would like to create.&lt;/p&gt;
-
-
-
-&lt;p&gt;It also turned out that we would need some “glue” components for a package like that. Even though it may only be a script here, or a “readme” file there. Some artifacts just don’t fit into either of those projects. And what about “in development” versions of the projects? How can you point people towards a stable deployment, only using a stable (released) group of projects, when scripts and readme’s are spread all over the place, in different branches.&lt;/p&gt;
-
-
-
-&lt;p&gt;A combination of “&lt;a href=&quot;https://www.eclipse.org/hono/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Hono&lt;/a&gt;, &lt;a href=&quot;https://www.eclipse.org/ditto/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Ditto&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.eclipse.org/hawkbit/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Hawkbit&lt;/a&gt;” seemed like an ideal IoT solution to start with. People from various companies already work across those three projects, using them in combination for their own purpose. So, why not build on that?&lt;/p&gt;
-
-
-
-&lt;p&gt;But in addition to all those technical challenges, the governance of this effort is an aspect to consider. We did not want to exclude other Eclipse IoT projects, simply by starting out with “Hono, Ditto, and Hawkbit”. We only wanted to create “an” Eclipse IoT solution, and not “the” Eclipse IoT solution. The whole Eclipse IoT ecosystem is much too diverse, to force our initial idea on everyone else. So what if someone comes up with an additional group of Eclipse IoT projects? Or what if someone would like to add a new project to an existing deployment?&lt;/p&gt;
-
-
-
-&lt;h2&gt;A home for everyone&lt;/h2&gt;
-
-
-
-&lt;p&gt;Luckily, creating an Eclipse Foundation project solves all those issues. And the &lt;a href=&quot;https://projects.eclipse.org/projects/technology.packaging&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Eclipse Packaging project&lt;/a&gt; already proves that this approach works. We played with the idea, to create some kind of a “meta” project. Not a real project in the sense of having a huge code base. But more a project, which makes use of the Eclipse Foundations governance framework. Allowing multiple, even competing companies, to work upstream in a joint effort. And giving all the bits and pieces, which are specific to the integration of the projects, a dedicated home.&lt;/p&gt;
-
-
-
-&lt;p&gt;A home, not only for the package of “Hono, Ditto and Hawkbit”, but hopefully for other packages as well. If other projects would like to present their IoT solution, by combining multiple Eclipse IoT projects, this is their chance. You can easily become a contributor to this new project, and publish your scripts, documentation and walk-throughs, alongside the other packages.&lt;/p&gt;
-
-
-
-&lt;p&gt;Of course everything will be open source, licensed under the EPL. So go ahead and fork it, add your custom application on top of it. Or replace an existing component with something, you think is even better than what we put it. We want to enable you to deploy what we provide in a few minutes. Offer you an explanation, what to expect from it, and what this IoT solution can do for you. And encourage you to play around with it. And enable you to extend it, and build something bigger.&lt;/p&gt;
-
-
-
-&lt;h2&gt;Let’s get started&lt;/h2&gt;
-
-
-
-&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;alignright&quot;&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2019&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;EclipseCon Europe 2019&quot; class=&quot;wp-image-4321&quot; src=&quot;https://dentrassi.de/wp-content/uploads/https___www.eclipsecon.org_sites_default_files_ECE_only_round_200x200.png.png&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
-
-
-
-&lt;p&gt;We created a new project &lt;a href=&quot;https://projects.eclipse.org/proposals/eclipse-iot-packages&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;proposal for the Eclipse IoT packages&lt;/a&gt; project. The project is currently in the community review phase. Once we pass the creation review, we will start publishing the content for the first package we have.&lt;/p&gt;
-
-
-
-&lt;p&gt;The Eclipse IoT working group will also meet at the &lt;a href=&quot;https://www.eclipsecon.org/europe2019/eclipse-community-day&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;IoT community day&lt;/a&gt; of &lt;a href=&quot;https://www.eclipsecon.org/europe2019&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;EclipseCon Europe 2019&lt;/a&gt;. Our goal is to present an initial version of the initial package. Ready to run!&lt;/p&gt;
-
-
-
-&lt;p&gt;But even more important, we would like to continue our discussions around this effort. All contributions are welcome: code, documentation, additional packages … your ideas, thoughts, and feedback!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://dentrassi.de/2019/09/10/from-building-blocks-to-iot-solutions/&quot; rel=&quot;nofollow&quot;&gt;From building blocks to IoT solutions&lt;/a&gt; appeared first on &lt;a href=&quot;https://dentrassi.de&quot; rel=&quot;nofollow&quot;&gt;ctron's blog&lt;/a&gt;.&lt;/p&gt;</description>
-	<pubDate>Tue, 10 Sep 2019 07:07:37 +0000</pubDate>
 </item>
 
 </channel>
